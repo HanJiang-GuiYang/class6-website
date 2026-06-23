@@ -1,0 +1,6 @@
+# 忽略系统文件和编辑器配置
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
